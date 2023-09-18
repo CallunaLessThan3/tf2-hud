@@ -3034,31 +3034,217 @@ Scheme
 		{
 			"1"
 			{
-				"name" 		"Inter-Regular"
-				"tall" 		"12"
+				"name" 		    "Inter-Regular"
+				"tall" 		    "12"
 				"antialias" 	"1"
 			}
 		}
+
+		"InterRegular16"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Regular"
+				"tall" 		    "16"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterRegular20"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Regular"
+				"tall" 		    "20"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterRegular24"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Regular"
+				"tall" 		    "24"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterRegular32"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Regular"
+				"tall" 		    "32"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterRegular36"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Regular"
+				"tall" 		    "36"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterRegular48"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Regular"
+				"tall" 		    "48"
+				"antialias" 	"1"
+			}
+		}
+
+
+        //bold
 
 		"InterBold12"
 		{
 			"1"
 			{
-				"name" 		"Inter-Bold"
-				"tall" 		"12"
+				"name" 		    "Inter-Bold"
+				"tall" 		    "12"
 				"antialias" 	"1"
 			}
 		}
+
+		"InterBold16"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Bold"
+				"tall" 		    "16"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBold20"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Bold"
+				"tall" 		    "20"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBold24"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Bold"
+				"tall" 		    "24"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBold32"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Bold"
+				"tall" 		    "32"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBold36"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Bold"
+				"tall" 		    "36"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBold48"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Bold"
+				"tall" 		    "48"
+				"antialias" 	"1"
+			}
+		}
+
+        //black
 
 		"InterBlack12"
 		{
 			"1"
 			{
-				"name" 		"Inter-Black"
-				"tall" 		"12"
+				"name" 		    "Inter-Black"
+				"tall" 		    "12"
 				"antialias" 	"1"
 			}
 		}
+
+		"InterBlack16"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Black"
+				"tall" 		    "16"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBlack20"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Black"
+				"tall" 		    "20"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBlack24"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Black"
+				"tall" 		    "24"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBlack32"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Black"
+				"tall" 		    "32"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBlack36"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Black"
+				"tall" 		    "36"
+				"antialias" 	"1"
+			}
+		}
+
+		"InterBlack48"
+		{
+			"1"
+			{
+				"name" 		    "Inter-Black"
+				"tall" 		    "48"
+				"antialias" 	"1"
+			}
+		}
+
 
 	}
 
